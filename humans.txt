@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Juan L. Sanchez -- Owner && Developer -- @jsanc623
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS, jQuery
+    CodeIgniter, PHP
+    MySQL, Bootstrap
